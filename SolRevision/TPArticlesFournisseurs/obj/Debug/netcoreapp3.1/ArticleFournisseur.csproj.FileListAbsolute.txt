@@ -1,0 +1,16 @@
+C:\Documents et programmes\Gillot\ArticleFournisseur\bin\Debug\netcoreapp3.1\ArticleFournisseur.exe
+C:\Documents et programmes\Gillot\ArticleFournisseur\bin\Debug\netcoreapp3.1\ArticleFournisseur.deps.json
+C:\Documents et programmes\Gillot\ArticleFournisseur\bin\Debug\netcoreapp3.1\ArticleFournisseur.runtimeconfig.json
+C:\Documents et programmes\Gillot\ArticleFournisseur\bin\Debug\netcoreapp3.1\ArticleFournisseur.runtimeconfig.dev.json
+C:\Documents et programmes\Gillot\ArticleFournisseur\bin\Debug\netcoreapp3.1\ArticleFournisseur.dll
+C:\Documents et programmes\Gillot\ArticleFournisseur\bin\Debug\netcoreapp3.1\ArticleFournisseur.pdb
+C:\Documents et programmes\Gillot\ArticleFournisseur\obj\Debug\netcoreapp3.1\ArticleFournisseur.csprojAssemblyReference.cache
+C:\Documents et programmes\Gillot\ArticleFournisseur\obj\Debug\netcoreapp3.1\ArticleFournisseur.Form1.resources
+C:\Documents et programmes\Gillot\ArticleFournisseur\obj\Debug\netcoreapp3.1\TPArticlesFournisseurs.FormGestionArticle.resources
+C:\Documents et programmes\Gillot\ArticleFournisseur\obj\Debug\netcoreapp3.1\ArticleFournisseur.csproj.GenerateResource.cache
+C:\Documents et programmes\Gillot\ArticleFournisseur\obj\Debug\netcoreapp3.1\ArticleFournisseur.AssemblyInfoInputs.cache
+C:\Documents et programmes\Gillot\ArticleFournisseur\obj\Debug\netcoreapp3.1\ArticleFournisseur.AssemblyInfo.cs
+C:\Documents et programmes\Gillot\ArticleFournisseur\obj\Debug\netcoreapp3.1\ArticleFournisseur.csproj.CoreCompileInputs.cache
+C:\Documents et programmes\Gillot\ArticleFournisseur\obj\Debug\netcoreapp3.1\ArticleFournisseur.dll
+C:\Documents et programmes\Gillot\ArticleFournisseur\obj\Debug\netcoreapp3.1\ArticleFournisseur.pdb
+C:\Documents et programmes\Gillot\ArticleFournisseur\obj\Debug\netcoreapp3.1\ArticleFournisseur.genruntimeconfig.cache
